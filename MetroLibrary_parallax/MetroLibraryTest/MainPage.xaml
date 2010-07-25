@@ -1,0 +1,169 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:MetroLibrary="clr-namespace:MetroLibrary;assembly=MetroLibrary"
+	xmlns:local="clr-namespace:MetroLibraryTest"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" xmlns:ee="http://schemas.microsoft.com/expression/2010/effects" xmlns:TileSL="clr-namespace:TileSL;assembly=TileSL" xmlns:toolkit="http://schemas.microsoft.com/winfx/2006/xaml/presentation/toolkit" x:Name="userControl" mc:Ignorable="d"
+	x:Class="MetroLibraryTest.MainPage"
+	Width="640" Height="480">
+	
+	<Grid x:Name="LayoutRoot" Background="Black" Clip="M0.5,0.5 L639.5,0.5 L639.5,479.5 L0.5,479.5 z">
+		<i:Interaction.Behaviors>
+			<MetroLibrary:ParallaxBehavior BackgroundLayerElement="image" PanelLayerElement="grid" TitleLayerElement="textBlock" ViewerElementName="LayoutRoot" Orientation="Horizontal" NavigationInertia="10" EnablePanelSnapping="True" BackgroundLayerTimeFactor="1" BackgroundLayerScrollFactor="1">
+				<MetroLibrary:ParallaxBehavior.NavigationEasingFunction>
+					<QuinticEase EasingMode="EaseOut"/>
+				</MetroLibrary:ParallaxBehavior.NavigationEasingFunction>
+			</MetroLibrary:ParallaxBehavior>
+		</i:Interaction.Behaviors>
+		<Image x:Name="image" Margin="0,0,-1871,0" Source="Images/iguazu-panorama-l.jpg" Stretch="Fill" Opacity="0.75"/>
+		<TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="Panorama View" VerticalAlignment="Top" Height="144" Margin="0,0,-583,0" FontSize="96" OpacityMask="#FFFFFCFC" Foreground="White" FontFamily="Segoe UI Light"/>
+		<Canvas x:Name="grid" Margin="0,164,-1601,0">
+			<Canvas x:Name="canvas" Width="623" Height="256" Canvas.Left="8" Canvas.Top="30">
+				<i:Interaction.Behaviors>
+					<MetroLibrary:GridLayoutBehavior/>
+				</i:Interaction.Behaviors>
+				<TileSL:Tile Width="74" Height="74" FlipX="False">
+					<i:Interaction.Triggers>
+						<i:EventTrigger EventName="MouseLeftButtonUp">
+							<MetroLibrary:BarnDoorBehavior TargetObject="{Binding ElementName=canvas}" DistanceTimeScaler="4">
+								<MetroLibrary:BarnDoorBehavior.OutboundAnimationEasingFunction>
+									<CubicEase EasingMode="EaseInOut"/>
+								</MetroLibrary:BarnDoorBehavior.OutboundAnimationEasingFunction>
+								<MetroLibrary:BarnDoorBehavior.InboundAnimationEasingFunction>
+									<SineEase EasingMode="EaseInOut"/>
+								</MetroLibrary:BarnDoorBehavior.InboundAnimationEasingFunction>
+							</MetroLibrary:BarnDoorBehavior>
+						</i:EventTrigger>
+					</i:Interaction.Triggers>
+				</TileSL:Tile>
+								<TileSL:Tile Width="74" Height="74" FlipX="False">
+					<i:Interaction.Triggers>
+						<i:EventTrigger EventName="MouseLeftButtonUp">
+							<MetroLibrary:BarnDoorBehavior TargetObject="{Binding ElementName=canvas}" DistanceTimeScaler="4">
+							</MetroLibrary:BarnDoorBehavior>
+						</i:EventTrigger>
+					</i:Interaction.Triggers>
+				</TileSL:Tile>
+								<TileSL:Tile Width="74" Height="74" FlipX="False">
+					<i:Interaction.Triggers>
+						<i:EventTrigger EventName="MouseLeftButtonUp">
+							<MetroLibrary:BarnDoorBehavior TargetObject="{Binding ElementName=canvas}" DistanceTimeScaler="4">
+							</MetroLibrary:BarnDoorBehavior>
+						</i:EventTrigger>
+					</i:Interaction.Triggers>
+				</TileSL:Tile>
+								<TileSL:Tile Width="74" Height="74" FlipX="False">
+					<i:Interaction.Triggers>
+						<i:EventTrigger EventName="MouseLeftButtonUp">
+							<MetroLibrary:BarnDoorBehavior TargetObject="{Binding ElementName=canvas}" DistanceTimeScaler="4">
+							</MetroLibrary:BarnDoorBehavior>
+						</i:EventTrigger>
+					</i:Interaction.Triggers>
+				</TileSL:Tile>
+								<TileSL:Tile Width="74" Height="74" FlipX="False">
+					<i:Interaction.Triggers>
+						<i:EventTrigger EventName="MouseLeftButtonUp">
+							<MetroLibrary:BarnDoorBehavior TargetObject="{Binding ElementName=canvas}" DistanceTimeScaler="4">
+							</MetroLibrary:BarnDoorBehavior>
+						</i:EventTrigger>
+					</i:Interaction.Triggers>
+				</TileSL:Tile>
+								<TileSL:Tile Width="74" Height="74" FlipX="False">
+					<i:Interaction.Triggers>
+						<i:EventTrigger EventName="MouseLeftButtonUp">
+							<MetroLibrary:BarnDoorBehavior TargetObject="{Binding ElementName=canvas}" DistanceTimeScaler="4">
+							</MetroLibrary:BarnDoorBehavior>
+						</i:EventTrigger>
+					</i:Interaction.Triggers>
+				</TileSL:Tile>
+								<TileSL:Tile Width="74" Height="74" FlipX="False">
+					<i:Interaction.Triggers>
+						<i:EventTrigger EventName="MouseLeftButtonUp">
+							<MetroLibrary:BarnDoorBehavior TargetObject="{Binding ElementName=canvas}" DistanceTimeScaler="4">
+							</MetroLibrary:BarnDoorBehavior>
+						</i:EventTrigger>
+					</i:Interaction.Triggers>
+				</TileSL:Tile>
+								<TileSL:Tile Width="74" Height="74" FlipX="False">
+					<i:Interaction.Triggers>
+						<i:EventTrigger EventName="MouseLeftButtonUp">
+							<MetroLibrary:BarnDoorBehavior TargetObject="{Binding ElementName=canvas}" DistanceTimeScaler="4">
+							</MetroLibrary:BarnDoorBehavior>
+						</i:EventTrigger>
+					</i:Interaction.Triggers>
+				</TileSL:Tile>
+								<TileSL:Tile Width="74" Height="74" FlipX="False">
+					<i:Interaction.Triggers>
+						<i:EventTrigger EventName="MouseLeftButtonUp">
+							<MetroLibrary:BarnDoorBehavior TargetObject="{Binding ElementName=canvas}" DistanceTimeScaler="4">
+							</MetroLibrary:BarnDoorBehavior>
+						</i:EventTrigger>
+					</i:Interaction.Triggers>
+				</TileSL:Tile>
+								<TileSL:Tile Width="74" Height="74" FlipX="False">
+					<i:Interaction.Triggers>
+						<i:EventTrigger EventName="MouseLeftButtonUp">
+							<MetroLibrary:BarnDoorBehavior TargetObject="{Binding ElementName=canvas}" DistanceTimeScaler="4">
+							</MetroLibrary:BarnDoorBehavior>
+						</i:EventTrigger>
+					</i:Interaction.Triggers>
+				</TileSL:Tile>
+								<TileSL:Tile Width="74" Height="74" FlipX="False">
+					<i:Interaction.Triggers>
+						<i:EventTrigger EventName="MouseLeftButtonUp">
+							<MetroLibrary:BarnDoorBehavior TargetObject="{Binding ElementName=canvas}" DistanceTimeScaler="4">
+							</MetroLibrary:BarnDoorBehavior>
+						</i:EventTrigger>
+					</i:Interaction.Triggers>
+				</TileSL:Tile>
+								<TileSL:Tile Width="74" Height="74" FlipX="False">
+					<i:Interaction.Triggers>
+						<i:EventTrigger EventName="MouseLeftButtonUp">
+							<MetroLibrary:BarnDoorBehavior TargetObject="{Binding ElementName=canvas}" DistanceTimeScaler="4">
+							</MetroLibrary:BarnDoorBehavior>
+						</i:EventTrigger>
+					</i:Interaction.Triggers>
+				</TileSL:Tile>
+				
+			</Canvas>
+			<Canvas HorizontalAlignment="Left" Width="620" Height="256" Canvas.Left="656" Canvas.Top="30">
+				<i:Interaction.Behaviors>
+					<MetroLibrary:StackLayoutBehavior Origin="50,150" StackOffset="40,-10"/>
+				</i:Interaction.Behaviors>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="50" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="50" Canvas.Top="132"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="137" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="137" Canvas.Top="132"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" HorizontalAlignment="Left" d:LayoutOverrides="Width, Height" Canvas.Left="333" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" HorizontalAlignment="Right" d:LayoutOverrides="Width, Height" Canvas.Left="241" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="HorizontalAlignment, Width, Height" Canvas.Left="333" Canvas.Top="132"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="440" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="440" Canvas.Top="132"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="526" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="526" Canvas.Top="132"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" HorizontalAlignment="Left" d:LayoutOverrides="Width, Height" Canvas.Left="241" Canvas.Top="132"/>
+			</Canvas>
+			<Canvas HorizontalAlignment="Right" Width="635" Height="256" Canvas.Left="1326" Canvas.Top="30">
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="50" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="50" Canvas.Top="132"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="137" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="137" Canvas.Top="132"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" HorizontalAlignment="Left" d:LayoutOverrides="Width, Height" Canvas.Left="333" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" HorizontalAlignment="Right" d:LayoutOverrides="Width, Height" Canvas.Left="241" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="HorizontalAlignment, Width, Height" Canvas.Left="333" Canvas.Top="132"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="440" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="440" Canvas.Top="132"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="526" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="526" Canvas.Top="132"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" HorizontalAlignment="Left" d:LayoutOverrides="Width, Height" Canvas.Left="241" Canvas.Top="132"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="50" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="50" Canvas.Top="132"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="137" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="137" Canvas.Top="132"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" HorizontalAlignment="Left" d:LayoutOverrides="Width, Height" Canvas.Left="333" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" HorizontalAlignment="Right" d:LayoutOverrides="Width, Height" Canvas.Left="241" Canvas.Top="50"/>
+				<TileSL:Tile Width="74" Height="74" FlipX="False" d:LayoutOverrides="Width, Height" Canvas.Left="440" Canvas.Top="50"/>
+			</Canvas>
+		</Canvas>
+	</Grid>
+</UserControl>

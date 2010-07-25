@@ -1,0 +1,261 @@
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\favicon.ico
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibraryTest.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibraryTest.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\AppManifest.xaml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibraryTest.xap
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\TestPage.html
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibrary.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\obj\Debug\MetroLibraryTest.g.resources
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\obj\Debug\MetroLibraryTest.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\obj\Debug\MetroLibraryTest.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\obj\Debug\XapCacheFile.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Controls.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Controls.Toolkit.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Controls.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Controls.Layout.Toolkit.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Controls.Toolkit.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\TileSL.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibrary.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\Bin\Debug\TileSL.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\obj\Debug\App.g.cs
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroLibraryTest\MetroLibraryTest\obj\Debug\MainPage.g.cs
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\favicon.ico
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibraryTest.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibraryTest.pdb
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibrary.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Controls.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibrary.pdb
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Controls.xml
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\obj\Debug\App.g.cs
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\obj\Debug\MainPage.g.cs
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\obj\Debug\MetroLibraryTest.g.resources
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\obj\Debug\MetroLibraryTest.dll
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\obj\Debug\MetroLibraryTest.pdb
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\AppManifest.xaml
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibraryTest.xap
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\Bin\Debug\TestPage.html
+C:\Users\jewolfe\Desktop\MetroLibraryTest\MetroLibraryTest\obj\Debug\XapCacheFile.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\favicon.ico
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibraryTest.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibraryTest.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\AppManifest.xaml
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibraryTest.xap
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\TestPage.html
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Controls.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\MetroLibrary.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Controls.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\obj\Debug\App.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\obj\Debug\MainPage.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\obj\Debug\MetroLibraryTest.g.resources
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\obj\Debug\MetroLibraryTest.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\obj\Debug\MetroLibraryTest.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibraryTest\MetroLibraryTest\obj\Debug\XapCacheFile.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\favicon.ico
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\MetroLibraryTest.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\MetroLibraryTest.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\AppManifest.xaml
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\MetroLibraryTest.xap
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\TestPage.html
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\System.Windows.Controls.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\MetroLibrary.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\System.Windows.Controls.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\obj\Debug\App.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\obj\Debug\MainPage.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\obj\Debug\MetroLibraryTest.g.resources
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\obj\Debug\MetroLibraryTest.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\obj\Debug\MetroLibraryTest.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\obj\Debug\XapCacheFile.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\TileSL.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\MetroLibrary_parallax\MetroLibraryTest\Bin\Debug\TileSL.pdb

@@ -1,0 +1,40 @@
+﻿<UserControl xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:TileSL="clr-namespace:TileSL;assembly=TileSL" xmlns:local="clr-namespace:MetroPanelTestWithClipping"
+	xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+	xmlns:local1="clr-namespace:TabletScreen"
+	x:Class="TabletScreen.MainPage"
+	mc:Ignorable="d" Foreground="{x:Null}" Background="#FFD40D0D" d:DesignWidth="1920" d:DesignHeight="1024">
+	<Grid Margin="0" Background="#FF8D8B8B">
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition/>
+		</Grid.ColumnDefinitions>
+		<Border BorderBrush="Black" BorderThickness="10" CornerRadius="27" Margin="0" Background="Black" VerticalAlignment="Center" d:LayoutOverrides="Width, GridBox" HorizontalAlignment="Center">
+			<Border BorderBrush="White" BorderThickness="5" Margin="0" CornerRadius="20" Background="Black">
+				<Border BorderBrush="Black" BorderThickness="20,40,20,60" Margin="0" CornerRadius="5" Background="Black">
+					<Grid x:Name="grid" OpacityMask="#FFE79595" Margin="0" Height="800" Width="1280">
+						<ScrollContentPresenter Margin="0">
+							<local1:TabletScreenPage Width="3800"/>
+						</ScrollContentPresenter>
+					</Grid>
+				</Border>
+			</Border>
+		</Border>
+		<Grid Margin="8,0,0,0" Background="#FF525151" HorizontalAlignment="Left" Width="200" d:LayoutOverrides="HorizontalAlignment" VerticalAlignment="Center" Height="480">
+			<Button Content="Start" HorizontalAlignment="Left" VerticalAlignment="Top" Width="64" Margin="25,119,0,0" Height="64" d:LayoutOverrides="HorizontalAlignment">
+				<Button.Background>
+					<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+						<GradientStop Color="Black" Offset="0"/>
+						<GradientStop Color="#FFC4C8C1" Offset="1"/>
+					</LinearGradientBrush>
+				</Button.Background>
+			</Button>
+			<Button Content="Pause" VerticalAlignment="Top" Margin="107,119,22,0" Height="64" Width="64">
+				<Button.Background>
+					<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+						<GradientStop Color="Black" Offset="0"/>
+						<GradientStop Color="White" Offset="1"/>
+					</LinearGradientBrush>
+				</Button.Background>
+			</Button>
+		</Grid>
+	</Grid>
+</UserControl>

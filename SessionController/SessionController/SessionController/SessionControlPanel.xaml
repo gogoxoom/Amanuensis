@@ -1,0 +1,21 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:local="clr-namespace:SessionController"
+	mc:Ignorable="d"
+	x:Class="SessionController.SessionControlPanel" Width="197" Height="371">
+
+	<Grid x:Name="LayoutRoot" HorizontalAlignment="Left" Width="197" Background="Black" Loaded="LayoutRoot_Loaded">
+		<i:Interaction.Behaviors>
+			<local:LogBehavior/>
+		</i:Interaction.Behaviors>
+		<Button x:Name="StartBlock" Content="START" Margin="14,19,19,0" Height="25" VerticalAlignment="Top" d:LayoutOverrides="GridBox" Click="StartBlock_Click"/>
+		<Button x:Name="StopBlock" Content="STOP" Height="25" Margin="14,0,19,19" VerticalAlignment="Bottom" d:LayoutOverrides="GridBox" Click="StopBlock_Click"/>
+		<TextBox x:Name="SessionId" Margin="14,95,19,0" TextWrapping="Wrap" Text="100" Height="34" VerticalAlignment="Top" d:LayoutOverrides="GridBox"/>
+		<TextBlock Margin="14,71,0,0" TextWrapping="Wrap" Text="ID" FontSize="16" Foreground="DarkGray" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" d:LayoutOverrides="GridBox"/>
+		<TextBox x:Name="Comments" Margin="14,173,19,108" TextWrapping="Wrap" Text="Comment...." d:LayoutOverrides="GridBox"/>
+		<Button x:Name="Submit" Content="Submit Comment" Height="19" Margin="67,0,19,75" VerticalAlignment="Bottom" d:LayoutOverrides="GridBox" Click="Submit_Click"/>
+	</Grid>
+</UserControl>

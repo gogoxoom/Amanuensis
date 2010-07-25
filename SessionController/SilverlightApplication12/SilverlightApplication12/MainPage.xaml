@@ -1,0 +1,19 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:SessionController="clr-namespace:SessionController;assembly=SessionController"
+	x:Class="SilverlightApplication12.MainPage"
+	Width="640" Height="480">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<Rectangle Fill="#FFF4F4F5" Margin="191,156,207,157" Stroke="Black">
+			<i:Interaction.Behaviors>
+				<SessionController:LogBehavior LogKeyDown="True" LogKeyUp="True" LogMouseEnter="True" LogMouseLeave="True"/>
+			</i:Interaction.Behaviors>
+		</Rectangle>
+		<TextBox x:Name="SessionId" HorizontalAlignment="Left" Height="22" Margin="46,36,0,0" TextWrapping="Wrap" Text="001" VerticalAlignment="Top" Width="73"/>
+		<TextBox HorizontalAlignment="Left" Height="22" Margin="8,36,0,0" TextWrapping="Wrap" Text="ID" VerticalAlignment="Top" Width="34" TextAlignment="Right" BorderThickness="0" FontWeight="Bold" FontSize="13.333"/>
+		<Button x:Name="StartBlock" HorizontalAlignment="Left" Height="27" Margin="8,75,0,0" VerticalAlignment="Top" Width="111" Content="START" Click="StartBlock_Click"/>
+		<Button x:Name="StopBlock" HorizontalAlignment="Left" Height="27" Margin="8,119,0,0" VerticalAlignment="Top" Width="111" Content="STOP" Click="StopBlock_Click"/>
+	</Grid>
+</UserControl>

@@ -1,0 +1,22 @@
+﻿<UserControl xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:WM7Mockup" xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:TileSL="clr-namespace:TileSL;assembly=TileSL" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" mc:Ignorable="d"
+	x:Class="WM7Mockup.MainPage"
+	Width="800" Height="1280">
+
+	<Grid x:Name="LayoutRoot" Background="White" MouseEnter="LayoutRoot_MouseEnter" MouseLeave="LayoutRoot_MouseLeave" MouseMove="LayoutRoot_MouseMove" Cursor="None" Loaded="LayoutRoot_Loaded" MouseLeftButtonDown="LayoutRoot_MouseLeftButtonDown">
+        <Image x:Name="image" Margin="0" Source="/Images/Pouch_Screen_Cutout.PNG" HorizontalAlignment="Center" VerticalAlignment="Center" Height="1104" Width="612" UseLayoutRounding="False">
+            <i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown" SourceName="image">
+					<ei:GoToStateAction TargetObject="{Binding ElementName=tokenList}" StateName="LockScreenState" TargetName="tokenList"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Image>
+		<Ellipse x:Name="BackButton" HorizontalAlignment="Left" Height="50" Margin="195,0,0,178" Stroke="Black" VerticalAlignment="Bottom" Width="53" Fill="#FFF4F4F5" Opacity="0" MouseLeftButtonUp="BackButton_MouseLeftButtonUp"/>
+		<ScrollContentPresenter x:Name="MainScreenContentPresenter" Margin="165,183,166,308" CanHorizontallyScroll="True" CanVerticallyScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Visible">
+			<local:TokenList x:Name="tokenList" Height="1610" Margin="0" HorizontalAlignment="Left" Width="960"/>
+		</ScrollContentPresenter>
+		<Button x:Name="StartRecordingButton" Content="Start Recording" HorizontalAlignment="Left" Height="45" Margin="165,8,0,0" VerticalAlignment="Top" Width="101" Click="StartRecordingButton_Click"/>
+		<Button x:Name="StopRecordingButton" Content="Stop Recording" HorizontalAlignment="Left" Height="45" Margin="293,8,0,0" VerticalAlignment="Top" Width="101" Click="StopRecordingButton_Click"/>
+		<Button x:Name="StartPlaybackButton" Content="Start Playback" HorizontalAlignment="Right" Height="45" Margin="0,8,282,0" VerticalAlignment="Top" Width="101" Click="StartPlaybackButton_Click"/>
+		<Ellipse x:Name="CustomCursor" HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="32" Cursor="Arrow" IsHitTestVisible="False" Stroke="#FF376DF7" StrokeThickness="5"/>
+	</Grid>
+</UserControl>

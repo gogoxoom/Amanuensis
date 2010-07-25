@@ -1,0 +1,14 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:local="clr-namespace:TileSL"
+	xmlns:toolkit="http://schemas.microsoft.com/winfx/2006/xaml/presentation/toolkit"
+	mc:Ignorable="d"
+	x:Class="TileSL.MetroPrototypeFramework" Background="Black" Width="640" Height="480">
+	<Grid x:Name="LayoutRoot" Background="#FF500606">
+		<toolkit:DockPanel LastChildFill="False" Margin="189,30,30,30" Background="Black"/>
+		<toolkit:DockPanel HorizontalAlignment="Left" LastChildFill="False" Margin="40,30,0,80" Width="120" Background="#FFE3EB73"/>
+	</Grid>
+</UserControl>

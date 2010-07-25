@@ -1,0 +1,316 @@
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\obj\Debug\MetroPanelTestWithClipping.g.resources
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\favicon.ico
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\MetroPanelTestWithClipping.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\MetroPanelTestWithClipping.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\AppManifest.xaml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\MetroPanelTestWithClipping.xap
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\TestPage.html
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Layout.Toolkit.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\TileSL.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\obj\Debug\MetroPanelTestWithClipping.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\obj\Debug\MetroPanelTestWithClipping.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\obj\Debug\XapCacheFile.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\obj\Debug\App.g.cs
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\obj\Debug\MainPage.g.cs
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\obj\Debug\LargeScreenPage.g.cs
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\MetroPanelTestWithClipping\MetroPanelTestWithClipping\Bin\Debug\TileSL.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\favicon.ico
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\MetroPanelTestWithClipping.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\MetroPanelTestWithClipping.pdb
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\AppManifest.xaml
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\MetroPanelTestWithClipping.xap
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\TestPage.html
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Layout.Toolkit.xml
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.xml
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.xml
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\MetroPanelTestWithClipping.g.resources
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\MetroPanelTestWithClipping.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\MetroPanelTestWithClipping.pdb
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\XapCacheFile.xml
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\TileSL.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\TileSL.pdb
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\App.g.cs
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\MainPage.g.cs
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\LargeScreenPage.g.cs
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\favicon.ico
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\MetroPanelTestWithClipping.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\MetroPanelTestWithClipping.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\AppManifest.xaml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\MetroPanelTestWithClipping.xap
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\TestPage.html
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Layout.Toolkit.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\TileSL.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\MetroPanelTestWithClipping.g.resources
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\MetroPanelTestWithClipping.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\MetroPanelTestWithClipping.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\XapCacheFile.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\TileSL.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\App.g.cs
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\MainPage.g.cs
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\LargeScreenPage.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\favicon.ico
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\MetroPanelTestWithClipping.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\MetroPanelTestWithClipping.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\AppManifest.xaml
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\MetroPanelTestWithClipping.xap
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\TestPage.html
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Layout.Toolkit.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Layout.Toolkit.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.Toolkit.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\TileSL.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\System.Windows.Controls.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\App.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\MainPage.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\LargeScreenPage.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\MetroPanelTestWithClipping.g.resources
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\MetroPanelTestWithClipping.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\MetroPanelTestWithClipping.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\TabletScreenGrid\MetroPanelTestWithClipping\obj\Debug\XapCacheFile.xml

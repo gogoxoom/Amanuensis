@@ -1,0 +1,20 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="WM7Mockup" EntryPointType="WM7Mockup.App" RuntimeVersion="4.0.50401.0">
+  <Deployment.OutOfBrowserSettings>
+    <OutOfBrowserSettings ShortName="WM7Mockup" EnableGPUAcceleration="True" ShowInstallMenuItem="True">
+      <OutOfBrowserSettings.Blurb>A short description of the application.</OutOfBrowserSettings.Blurb>
+      <OutOfBrowserSettings.WindowSettings>
+        <WindowSettings Title="WM7Mockup" Height="480" Width="640" />
+      </OutOfBrowserSettings.WindowSettings>
+      <OutOfBrowserSettings.Icons />
+    </OutOfBrowserSettings>
+  </Deployment.OutOfBrowserSettings>
+  <Deployment.Parts>
+    <AssemblyPart x:Name="WM7Mockup" Source="WM7Mockup.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Controls" Source="Microsoft.Expression.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Drawing" Source="Microsoft.Expression.Drawing.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Interactions" Source="Microsoft.Expression.Interactions.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Navigation" Source="System.Windows.Controls.Navigation.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart x:Name="TileSL" Source="TileSL.dll" />
+  </Deployment.Parts>
+</Deployment>

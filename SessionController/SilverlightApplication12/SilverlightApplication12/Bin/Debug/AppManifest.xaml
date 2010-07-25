@@ -1,0 +1,11 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="SilverlightApplication12" EntryPointType="SilverlightApplication12.App" RuntimeVersion="4.0.50401.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="SilverlightApplication12" Source="SilverlightApplication12.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Interactions" Source="Microsoft.Expression.Interactions.dll" />
+    <AssemblyPart x:Name="SessionController" Source="SessionController.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition" Source="System.ComponentModel.Composition.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition.Initialization" Source="System.ComponentModel.Composition.Initialization.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.DataAnnotations" Source="System.ComponentModel.DataAnnotations.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+  </Deployment.Parts>
+</Deployment>

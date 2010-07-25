@@ -1,0 +1,17 @@
+﻿<UserControl xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:MetroLibrary="clr-namespace:MetroLibrary;assembly=MetroLibrary" xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:local="clr-namespace:MetroLibraryTest_Phone" xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" xmlns:SessionController="clr-namespace:SessionController;assembly=SessionController"
+	x:Class="MetroLibraryTest_Phone.MainPage"
+	d:DesignWidth="1000" d:DesignHeight="1280" mc:Ignorable="d">
+
+	<Grid x:Name="LayoutRoot">
+		<i:Interaction.Behaviors>
+			<MetroLibrary:CustomCursorBehavior CursorElementName="ellipse"/>
+		</i:Interaction.Behaviors>
+		<MetroLibrary:PhoneDevice x:Name="phoneDevice" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Visible">
+			<MetroLibrary:PhoneDevice.DeviceContent>
+				<local:StartExperience/>
+			</MetroLibrary:PhoneDevice.DeviceContent>
+		</MetroLibrary:PhoneDevice>
+		<SessionController:SessionControlPanel HorizontalAlignment="Left" Margin="24,128,0,0" d:LayoutOverrides="Width, Height" VerticalAlignment="Top"/>
+		<Ellipse x:Name="ellipse" HorizontalAlignment="Left" Height="24" Stroke="#FFDC2B2B" VerticalAlignment="Top" Width="24" StrokeThickness="5"/>
+	</Grid>
+</UserControl>

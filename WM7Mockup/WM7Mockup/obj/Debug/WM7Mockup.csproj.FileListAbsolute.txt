@@ -1,0 +1,73 @@
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\Images\Pouch_Screen_Cutout.PNG
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\favicon.ico
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\WM7Mockup.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\WM7Mockup.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\AppManifest.xaml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\WM7Mockup.xap
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\TestPage.html
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\TileSL.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\TileSL.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\obj\Debug\WM7Mockup.g.resources
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\obj\Debug\WM7Mockup.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\obj\Debug\WM7Mockup.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\obj\Debug\XapCacheFile.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\obj\Debug\App.g.cs
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\obj\Debug\LockScreen.g.cs
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\obj\Debug\MainPage.g.cs
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\WM7Mockup\WM7Mockup\obj\Debug\TokenList.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\favicon.ico
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\Images\Pouch_Screen_Cutout.PNG
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\WM7Mockup.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\WM7Mockup.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\AppManifest.xaml
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\WM7Mockup.xap
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\TestPage.html
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\TileSL.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\obj\Debug\App.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\obj\Debug\LockScreen.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\obj\Debug\MainPage.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\obj\Debug\TokenList.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\obj\Debug\WM7Mockup.g.resources
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\obj\Debug\WM7Mockup.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\obj\Debug\WM7Mockup.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\WM7Mockup\WM7Mockup\obj\Debug\XapCacheFile.xml

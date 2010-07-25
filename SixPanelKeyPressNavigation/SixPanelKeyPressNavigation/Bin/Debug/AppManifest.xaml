@@ -1,0 +1,17 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="SixPanelKeyPressNavigation" EntryPointType="SixPanelKeyPressNavigation.App" RuntimeVersion="4.0.50401.0">
+  <Deployment.OutOfBrowserSettings>
+    <OutOfBrowserSettings ShortName="SixPanelKeyPressNavigation" EnableGPUAcceleration="True" ShowInstallMenuItem="True">
+      <OutOfBrowserSettings.Blurb>A short description of the application.</OutOfBrowserSettings.Blurb>
+      <OutOfBrowserSettings.WindowSettings>
+        <WindowSettings Title="SixPanelKeyPressNavigation" Height="480" Width="640" />
+      </OutOfBrowserSettings.WindowSettings>
+      <OutOfBrowserSettings.Icons />
+    </OutOfBrowserSettings>
+  </Deployment.OutOfBrowserSettings>
+  <Deployment.Parts>
+    <AssemblyPart x:Name="SixPanelKeyPressNavigation" Source="SixPanelKeyPressNavigation.dll" />
+    <AssemblyPart x:Name="MetroLibrary" Source="MetroLibrary.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart x:Name="TileSL" Source="TileSL.dll" />
+  </Deployment.Parts>
+</Deployment>

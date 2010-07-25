@@ -1,0 +1,21 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="WM7Mockup.LockScreen"
+	d:DesignWidth="480" d:DesignHeight="800" Background="#FF121212" UseLayoutRounding="False">
+
+	<Grid x:Name="LayoutRoot" Background="Black" Loaded="LayoutRoot_Loaded">
+		<Image Margin="0" Source="Images/san_franciscos_golden_gate_bridge_at_night.jpg" Stretch="UniformToFill" VerticalAlignment="Center" HorizontalAlignment="Center" Opacity="0.75" RenderTransformOrigin="0.505,0.5" OpacityMask="Black"/>
+		<TextBlock x:Name="Time" Margin="20,0,0,332" TextWrapping="Wrap" Text="8:27" FontFamily="Segoe UI Light" Foreground="#FFFFFDFD" FontSize="64" Height="85" VerticalAlignment="Bottom"/>
+		<TextBlock x:Name="Weekday" Margin="20,0,0,260" TextWrapping="Wrap" Text="Wednesday" FontFamily="Segoe UI Light" Foreground="#FFFFFDFD" FontSize="64" Height="85" VerticalAlignment="Bottom"/>
+		<TextBlock x:Name="Date" Margin="20,0,0,185" TextWrapping="Wrap" Text="March 26" FontFamily="Segoe UI Light" Foreground="#FFFFFDFD" FontSize="64" Height="85" VerticalAlignment="Bottom"/>
+		<TextBlock x:Name="Title" Margin="20,0,0,146" TextWrapping="Wrap" Text="Internal Design Review" FontFamily="Segoe UI Semibold" Foreground="#FFFFFDFD" FontSize="26.667" Height="35" VerticalAlignment="Bottom"/>
+		<TextBlock x:Name="Title2" Margin="20,0,0,111" TextWrapping="Wrap" Text="Studio H/2010" FontFamily="Segoe UI Semibold" Foreground="#FFFFFDFD" FontSize="26.667" Height="35" VerticalAlignment="Bottom"/>
+		<TextBlock x:Name="Title3" Margin="20,0,0,76" TextWrapping="Wrap" Text="12:45-2:00 PM" FontFamily="Segoe UI Semibold" Foreground="#FFFFFDFD" FontSize="26.667" Height="35" VerticalAlignment="Bottom"/>
+		<Image Height="21" Margin="8,8,170,0" Source="Images/lock_top_icons.png" Stretch="Fill" VerticalAlignment="Top"/>
+		<Image Height="28" Margin="20,0,22,24" Source="Images/lock_bottom_icons.png" Stretch="Fill" VerticalAlignment="Bottom"/>
+	</Grid>
+</UserControl>

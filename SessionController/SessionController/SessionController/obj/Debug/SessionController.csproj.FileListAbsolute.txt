@@ -1,0 +1,121 @@
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\Bin\Debug\SessionController.dll
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\Bin\Debug\SessionController.pdb
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.dll
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.xml
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\Bin\Debug\de\System.ComponentModel.Composition.resources.dll
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\Bin\Debug\es\System.ComponentModel.Composition.resources.dll
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\Bin\Debug\fr\System.ComponentModel.Composition.resources.dll
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\Bin\Debug\it\System.ComponentModel.Composition.resources.dll
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\Bin\Debug\ja\System.ComponentModel.Composition.resources.dll
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\Bin\Debug\ko\System.ComponentModel.Composition.resources.dll
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\Bin\Debug\ru\System.ComponentModel.Composition.resources.dll
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\Bin\Debug\zh-Hans\System.ComponentModel.Composition.resources.dll
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\Bin\Debug\zh-Hant\System.ComponentModel.Composition.resources.dll
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\obj\Debug\ResolveAssemblyReference.cache
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\obj\Debug\SessionController.dll
+c:\users\davidw\documents\visual studio 2010\Projects\SessionController\SessionController\obj\Debug\SessionController.pdb
+C:\Users\davidw\Documents\Visual Studio 2010\Projects\SessionController\SessionController\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\davidw\Documents\Visual Studio 2010\Projects\SessionController\SessionController\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\davidw\Documents\Visual Studio 2010\Projects\SessionController\SessionController\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\davidw\Documents\Visual Studio 2010\Projects\SessionController\SessionController\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\davidw\Documents\Visual Studio 2010\Projects\SessionController\SessionController\obj\Debug\SessionControlPanel.g.cs
+C:\Users\davidw\Documents\Visual Studio 2010\Projects\SessionController\SessionController\obj\Debug\SessionController.g.resources
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\obj\Debug\SessionController.g.resources
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\obj\Debug\SessionController.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\SessionController.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\SessionController.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.Initialization.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.Initialization.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\de\System.ComponentModel.Composition.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\es\System.ComponentModel.Composition.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\fr\System.ComponentModel.Composition.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\it\System.ComponentModel.Composition.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\ja\System.ComponentModel.Composition.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\ko\System.ComponentModel.Composition.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\ru\System.ComponentModel.Composition.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\zh-Hans\System.ComponentModel.Composition.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\zh-Hant\System.ComponentModel.Composition.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\de\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\es\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\fr\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\it\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\ja\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\ko\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\ru\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\zh-Hans\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\Bin\Debug\zh-Hant\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\obj\Debug\SessionController.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SessionController\SessionController\SessionController\obj\Debug\SessionControlPanel.g.i.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\SessionController.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\SessionController.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.Initialization.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.Initialization.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\de\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\es\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\fr\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\it\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\ja\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\ko\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\ru\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\zh-Hans\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\zh-Hant\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\de\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\es\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\fr\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\it\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\ja\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\ko\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\ru\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\zh-Hans\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\zh-Hant\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\obj\Debug\SessionController.g.resources
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\obj\Debug\SessionController.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\obj\Debug\SessionController.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\SessionController\SessionController\SessionController\obj\Debug\SessionControlPanel.g.i.cs
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\SessionController.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\SessionController.pdb
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.Initialization.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.xml
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\System.ComponentModel.Composition.Initialization.xml
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\de\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\es\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\fr\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\it\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\ja\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\ko\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\ru\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\zh-Hans\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\zh-Hant\System.ComponentModel.Composition.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\de\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\es\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\fr\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\it\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\ja\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\ko\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\ru\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\zh-Hans\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\Bin\Debug\zh-Hant\System.ComponentModel.Composition.Initialization.resources.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\obj\Debug\SessionControlPanel.g.i.cs
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\obj\Debug\SessionController.g.resources
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\obj\Debug\SessionController.dll
+C:\Users\jewolfe\Documents\My Dropbox\Pattern Lib\SessionController\SessionController\SessionController\obj\Debug\SessionController.pdb

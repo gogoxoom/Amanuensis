@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroPanelTestWithClipping", "MetroPanelTestWithClipping\MetroPanelTestWithClipping.csproj", "{35a61163-e3cb-4395-bf13-406769a2539a}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A61163-E3CB-4395-BF13-406769A2539A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A61163-E3CB-4395-BF13-406769A2539A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A61163-E3CB-4395-BF13-406769A2539A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A61163-E3CB-4395-BF13-406769A2539A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

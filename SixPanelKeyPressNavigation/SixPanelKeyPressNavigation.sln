@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SixPanelKeyPressNavigation", "SixPanelKeyPressNavigation\SixPanelKeyPressNavigation.csproj", "{ff4763bb-3c0f-485a-9cc8-a636e2492352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF4763BB-3C0F-485A-9CC8-A636E2492352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4763BB-3C0F-485A-9CC8-A636E2492352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4763BB-3C0F-485A-9CC8-A636E2492352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4763BB-3C0F-485A-9CC8-A636E2492352}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

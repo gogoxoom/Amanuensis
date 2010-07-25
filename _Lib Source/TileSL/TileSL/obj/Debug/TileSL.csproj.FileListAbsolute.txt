@@ -1,0 +1,280 @@
+c:\users\rafael.moto\documents\visual studio 2010\Projects\TileSL\TileSL\Bin\Debug\TileSL.dll
+c:\users\rafael.moto\documents\visual studio 2010\Projects\TileSL\TileSL\Bin\Debug\TileSL.pdb
+c:\users\rafael.moto\documents\visual studio 2010\Projects\TileSL\TileSL\obj\Debug\ResolveAssemblyReference.cache
+c:\users\rafael.moto\documents\visual studio 2010\Projects\TileSL\TileSL\obj\Debug\TileSL.dll
+c:\users\rafael.moto\documents\visual studio 2010\Projects\TileSL\TileSL\obj\Debug\TileSL.pdb
+c:\users\rafael.moto\documents\visual studio 2010\Projects\TileSL\TileSL\obj\Debug\TileSL.g.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\obj\Debug\TileSL.g.resources
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\TileSL.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\TileSL.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\obj\Debug\TileSL.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\obj\Debug\TileSL.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\System.Windows.Controls.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\System.Windows.Controls.xml
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.xml
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\rafael\Documents\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\TileSL.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\TileSL.pdb
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\Microsoft.Expression.Interactions.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Navigation.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Interactivity.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\Microsoft.Expression.Interactions.xml
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.xml
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Navigation.xml
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.xml
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Interactivity.xml
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ar\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\bg\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ca\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\cs\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\da\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\de\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\el\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\es\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\et\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\eu\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\fi\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\fr\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\he\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\hr\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\hu\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\id\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\it\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ja\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ko\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\lt\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\lv\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ms\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\nl\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\no\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\pl\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\pt\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ro\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ru\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\sk\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\sl\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\sv\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\th\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\tr\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\uk\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\vi\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\ResolveAssemblyReference.cache
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\MetroTVDevice.g.i.cs
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\MetroTabletDevice.g.i.cs
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\MetroPhoneDevice.g.i.cs
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\MetroPrototypeFramework.g.i.cs
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\TileSL.g.resources
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\TileSL.dll
+\\Server3\Project\MSF-RTN\MOTO Engineering\SW\Projects\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\TileSL.pdb
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\TileSL.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\TileSL.pdb
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.xml
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.xml
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\MetroTVDevice.g.i.cs
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\MetroTabletDevice.g.i.cs
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\MetroPhoneDevice.g.i.cs
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\MetroPrototypeFramework.g.i.cs
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\TileSL.g.resources
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\TileSL.dll
+C:\Users\rafael.MOTO\Documents\MSF-RTN\ProjectsRafael_05_12_10_v2\TileSL\TileSL\obj\Debug\TileSL.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\TileSL.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\TileSL.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\System.Windows.Controls.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\System.Windows.Controls.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\System.Windows.Controls.Toolkit.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\obj\Debug\TileSL.g.resources
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\obj\Debug\TileSL.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\_Lib Source\TileSL\TileSL\obj\Debug\TileSL.pdb

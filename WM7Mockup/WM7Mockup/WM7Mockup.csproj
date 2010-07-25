@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ExpressionBlendVersion>4.0.20525.0</ExpressionBlendVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{562d736c-87dd-43a9-9c18-a8837244974a}</ProjectGuid>
+    <ProjectTypeGuids>{A1591282-1198-4647-A2B1-27E5FF5F6F3B};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <DefaultClrNameSpace>WM7Mockup</DefaultClrNameSpace>
+    <RootNamespace>WM7Mockup</RootNamespace>
+    <AssemblyName>WM7Mockup</AssemblyName>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <ApplicationVersion>1.0.0.*</ApplicationVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>WM7Mockup.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>WM7Mockup.App</SilverlightAppEntry>
+    <TestPageFileName>TestPage.html</TestPageFileName>
+    <CreateTestPage>true</CreateTestPage>
+    <ValidateXaml>true</ValidateXaml>
+    <EnableOutOfBrowser>true</EnableOutOfBrowser>
+    <UsePlatformExtensions>false</UsePlatformExtensions>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <LinkedServerProject>
+    </LinkedServerProject>
+    <Utf8Output>true</Utf8Output>
+    <OutOfBrowserSettingsFile>Properties\OutOfBrowserSettings.xml</OutOfBrowserSettingsFile>
+  </PropertyGroup>
+  <!-- This property group is only here to support building this project using the
+	     MSBuild 3.5 toolset. In order to work correctly with this older toolset, it needs 
+	     to set the TargetFrameworkVersion to v3.5 -->
+  <PropertyGroup Condition="'$(MSBuildToolsVersion)' == '3.5'">
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Expression.Controls" />
+    <Reference Include="Microsoft.Expression.Drawing" />
+    <Reference Include="Microsoft.Expression.Interactions" />
+    <Reference Include="System.Windows" />
+    <Reference Include="mscorlib" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Controls.Navigation" />
+    <Reference Include="System.Windows.Interactivity" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Windows.Browser" />
+    <Reference Include="TileSL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\..\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\TileSL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LockScreen.xaml.cs">
+      <DependentUpon>LockScreen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TokenList.xaml.cs">
+      <DependentUpon>TokenList.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:MarkupCompilePass1</Generator>
+    </ApplicationDefinition>
+    <Page Include="LockScreen.xaml">
+      <Generator>MSBuild:MarkupCompilePass1</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:MarkupCompilePass1</Generator>
+    </Page>
+    <None Include="favicon.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </None>
+    <Page Include="TokenList.xaml">
+      <Generator>MSBuild:MarkupCompilePass1</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\Pouch_Screen_Cutout.PNG">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\ArrowLeft.jpg" />
+    <Resource Include="Images\ArrowRight.jpg" />
+    <Resource Include="Images\lock_bottom_icons.png" />
+    <Resource Include="Images\lock_top_icons.png" />
+    <Resource Include="Images\MiniTiles\mini_alarm.jpg" />
+    <Resource Include="Images\MiniTiles\mini_album.jpg" />
+    <Resource Include="Images\MiniTiles\mini_calculator.jpg" />
+    <Resource Include="Images\MiniTiles\mini_calendar.jpg" />
+    <Resource Include="Images\MiniTiles\mini_camera.jpg" />
+    <Resource Include="Images\MiniTiles\mini_chat.jpg" />
+    <Resource Include="Images\MiniTiles\mini_explorer.jpg" />
+    <Resource Include="Images\MiniTiles\mini_mail.jpg" />
+    <Resource Include="Images\MiniTiles\mini_map.jpg" />
+    <Resource Include="Images\MiniTiles\mini_office.jpg" />
+    <Resource Include="Images\MiniTiles\mini_people.jpg" />
+    <Resource Include="Images\MiniTiles\mini_phone.jpg" />
+    <Resource Include="Images\MiniTiles\mini_settings.jpg" />
+    <Resource Include="Images\MiniTiles\mini_shopping.jpg" />
+    <Resource Include="Images\MiniTiles\mini_xbox_live.jpg" />
+    <Resource Include="Images\MiniTiles\mini_zoon.jpg" />
+    <Resource Include="Images\san_franciscos_golden_gate_bridge_at_night.jpg" />
+    <Resource Include="Images\Tiles\tile2_calendar.png" />
+    <Resource Include="Images\Tiles\tile2_williams.jpg" />
+    <Resource Include="Images\Tiles\tile_alarm.png" />
+    <Resource Include="Images\Tiles\tile_album.jpg" />
+    <Resource Include="Images\Tiles\tile_brimer.jpg" />
+    <Resource Include="Images\Tiles\tile_calculator.png" />
+    <Resource Include="Images\Tiles\tile_dog.jpg" />
+    <Resource Include="Images\Tiles\tile_LIT.jpg" />
+    <Resource Include="Images\Tiles\tile_mail.png" />
+    <Resource Include="Images\Tiles\tile_me_i.jpg" />
+    <Resource Include="Images\Tiles\tile_me_ii.jpg" />
+    <Resource Include="Images\Tiles\tile_office.png" />
+    <Resource Include="Images\Tiles\tile_people.png" />
+    <Resource Include="Images\Tiles\tile_phone.png" />
+    <Resource Include="Images\Tiles\tile_playlist_beach.png" />
+    <Resource Include="Images\Tiles\tile_robot.jpg" />
+    <Resource Include="Images\Tiles\tile_seattle_weather.png" />
+    <Resource Include="Images\Tiles\title_text.png" />
+    <Resource Include="Properties\OutOfBrowserSettings.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	     Other similar extension points exist, see Microsoft.Common.targets.
+	<Target Name="BeforeBuild">
+	</Target>
+	<Target Name="AfterBuild">
+	</Target>
+	-->
+</Project>

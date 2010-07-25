@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ExpressionBlendVersion>4.0.20525.0</ExpressionBlendVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{670B3C24-A4F2-472D-9D0F-749D868AA134}</ProjectGuid>
+    <ProjectTypeGuids>{A1591282-1198-4647-A2B1-27E5FF5F6F3B};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <DefaultClrNameSpace>MetroLibraryTest_Phone</DefaultClrNameSpace>
+    <RootNamespace>MetroLibraryTest_Phone</RootNamespace>
+    <AssemblyName>MetroLibraryTest_Phone</AssemblyName>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <ApplicationVersion>1.0.0.*</ApplicationVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>MetroLibraryTest_Phone.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>MetroLibraryTest_Phone.App</SilverlightAppEntry>
+    <TestPageFileName>TestPage.html</TestPageFileName>
+    <CreateTestPage>true</CreateTestPage>
+    <ValidateXaml>true</ValidateXaml>
+    <EnableOutOfBrowser>true</EnableOutOfBrowser>
+    <UsePlatformExtensions>false</UsePlatformExtensions>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <LinkedServerProject>
+    </LinkedServerProject>
+    <Utf8Output>true</Utf8Output>
+    <OutOfBrowserSettingsFile>Properties\OutOfBrowserSettings.xml</OutOfBrowserSettingsFile>
+  </PropertyGroup>
+  <!-- This property group is only here to support building this project using the
+	     MSBuild 3.5 toolset. In order to work correctly with this older toolset, it needs 
+	     to set the TargetFrameworkVersion to v3.5 -->
+  <PropertyGroup Condition="'$(MSBuildToolsVersion)' == '3.5'">
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\MetroLibrary\MetroLibrary\Bin\Debug\MetroLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Interactions" />
+    <Reference Include="SessionController, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\SessionController\SessionController\SessionController\Bin\Debug\SessionController.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.ComponentModel.Composition.Initialization, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows" />
+    <Reference Include="mscorlib" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Interactivity" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Windows.Browser" />
+    <Reference Include="TileSL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\..\Visual Studio 2010\Projects\TileSL\TileSL\Bin\Debug\TileSL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StartExperience.xaml.cs">
+      <DependentUpon>StartExperience.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:MarkupCompilePass1</Generator>
+    </ApplicationDefinition>
+    <None Include="favicon.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:MarkupCompilePass1</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StartExperience.xaml">
+      <Generator>MSBuild:MarkupCompilePass1</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\iguazu-panorama-l.jpg" />
+    <Resource Include="Images\LockScreen\lock_bottom_icons.png" />
+    <Resource Include="Images\LockScreen\lock_top_icons.png" />
+    <Resource Include="Images\LockScreen\san_franciscos_golden_gate_bridge_at_night.jpg" />
+    <Resource Include="Images\MiniTiles\mini_alarm.jpg" />
+    <Resource Include="Images\MiniTiles\mini_album.jpg" />
+    <Resource Include="Images\MiniTiles\mini_calculator.jpg" />
+    <Resource Include="Images\MiniTiles\mini_calendar.jpg" />
+    <Resource Include="Images\MiniTiles\mini_camera.jpg" />
+    <Resource Include="Images\MiniTiles\mini_chat.jpg" />
+    <Resource Include="Images\MiniTiles\mini_explorer.jpg" />
+    <Resource Include="Images\MiniTiles\mini_mail.jpg" />
+    <Resource Include="Images\MiniTiles\mini_map.jpg" />
+    <Resource Include="Images\MiniTiles\mini_office.jpg" />
+    <Resource Include="Images\MiniTiles\mini_people.jpg" />
+    <Resource Include="Images\MiniTiles\mini_phone.jpg" />
+    <Resource Include="Images\MiniTiles\mini_settings.jpg" />
+    <Resource Include="Images\MiniTiles\mini_shopping.jpg" />
+    <Resource Include="Images\MiniTiles\mini_xbox_live.jpg" />
+    <Resource Include="Images\MiniTiles\mini_zoon.jpg" />
+    <Resource Include="Images\Tiles\tile2_calendar.png" />
+    <Resource Include="Images\Tiles\tile2_williams.jpg" />
+    <Resource Include="Images\Tiles\tile_alarm.png" />
+    <Resource Include="Images\Tiles\tile_album.jpg" />
+    <Resource Include="Images\Tiles\tile_brimer.jpg" />
+    <Resource Include="Images\Tiles\tile_calculator.png" />
+    <Resource Include="Images\Tiles\tile_dog.jpg" />
+    <Resource Include="Images\Tiles\tile_LIT.jpg" />
+    <Resource Include="Images\Tiles\tile_mail.png" />
+    <Resource Include="Images\Tiles\tile_me_i.jpg" />
+    <Resource Include="Images\Tiles\tile_me_ii.jpg" />
+    <Resource Include="Images\Tiles\tile_office.png" />
+    <Resource Include="Images\Tiles\tile_people.png" />
+    <Resource Include="Images\Tiles\tile_phone.png" />
+    <Resource Include="Images\Tiles\tile_playlist_beach.png" />
+    <Resource Include="Images\Tiles\tile_robot.jpg" />
+    <Resource Include="Images\Tiles\tile_seattle_weather.png" />
+    <Resource Include="Images\Tiles\title_text.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{A1591282-1198-4647-A2B1-27E5FF5F6F3B}">
+        <SilverlightProjectProperties />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	     Other similar extension points exist, see Microsoft.Common.targets.
+	<Target Name="BeforeBuild">
+	</Target>
+	<Target Name="AfterBuild">
+	</Target>
+	-->
+</Project>

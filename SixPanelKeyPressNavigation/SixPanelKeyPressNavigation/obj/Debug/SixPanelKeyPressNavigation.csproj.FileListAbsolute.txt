@@ -1,0 +1,57 @@
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\favicon.ico
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\SixPanelKeyPressNavigation.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\SixPanelKeyPressNavigation.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\AppManifest.xaml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\SixPanelKeyPressNavigation.xap
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\TestPage.html
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\MetroLibrary.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\TileSL.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\MetroLibrary.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\TileSL.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\SixPanelKeyPressNavigation.g.resources
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\SixPanelKeyPressNavigation.dll
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\SixPanelKeyPressNavigation.pdb
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\XapCacheFile.xml
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\App.g.cs
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\SixPanelPage.g.cs
+C:\Users\rafael\Documents\Expression\Blend 4 Beta\Projects\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\MainPage.g.cs
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\favicon.ico
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\SixPanelKeyPressNavigation.dll
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\SixPanelKeyPressNavigation.pdb
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\AppManifest.xaml
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\SixPanelKeyPressNavigation.xap
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\TestPage.html
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\MetroLibrary.dll
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\MetroLibrary.pdb
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\TileSL.pdb
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\App.g.cs
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\MainPage.g.cs
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\SixPanelPage.g.cs
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\SixPanelKeyPressNavigation.g.resources
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\SixPanelKeyPressNavigation.dll
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\SixPanelKeyPressNavigation.pdb
+C:\Users\jewolfe\Desktop\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\XapCacheFile.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\favicon.ico
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\SixPanelKeyPressNavigation.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\SixPanelKeyPressNavigation.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\AppManifest.xaml
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\SixPanelKeyPressNavigation.xap
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\TestPage.html
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\MetroLibrary.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\Bin\Debug\TileSL.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\App.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\MainPage.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\SixPanelPage.g.cs
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\SixPanelKeyPressNavigation.g.resources
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\SixPanelKeyPressNavigation.dll
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\SixPanelKeyPressNavigation.pdb
+C:\Users\jewolfe\Desktop\Pattern Lib\SixPanelKeyPressNavigation\SixPanelKeyPressNavigation\obj\Debug\XapCacheFile.xml

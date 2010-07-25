@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<OutOfBrowserSettings ShortName="MetroLibraryTest_Phone" EnableGPUAcceleration="True">
+
+	<OutOfBrowserSettings.Blurb>
+		A short description of the application.
+	</OutOfBrowserSettings.Blurb>
+	<OutOfBrowserSettings.WindowSettings>
+		<WindowSettings Height="480" Width="640" Title="MetroLibraryTest_Phone" />
+	</OutOfBrowserSettings.WindowSettings>
+</OutOfBrowserSettings>
